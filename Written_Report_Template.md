@@ -22,6 +22,7 @@ The biggest challenge for me was the concentration of projects on one end of the
 ## **Outcomes based on Launch Date**
 
 
+ ![](resources/Theater_Outcomes_vs_Launch.png)
  
  As we see in the graph there is parallel motion of both lines until they break apart in May to align again in August and to the end of the year. The margin increase between successful and failed lines combined with the increase in total campaigns translates to an increase in the success rate in late spring which holds for most of the summer. This indicates late spring and the first two thirds of the summer as the optimal period to start a campaign. As we move to the end of the summer success rates gradually fall and the margin between successful campaigns and failed is again locked in the initial parallel motion.  
 
