@@ -21,7 +21,7 @@ The greatest challenge was the imbalance of campaigns throughout the goal amount
 
 ## **Outcomes based on Launch Date**
 
-![](png/out_launch.png)
+![](png/Theater_Outcomes_vs_Launch.png)
 
   As we see in the graph there is parallel motion of both lines and this indicates a steady success rate. The lines then break apart in March when we observe an increase in successful plays compared to failed plays which intensifies throughout April and reaches its peak in May. After that point successful campaigns slowly decrease while failed campaigns remain steady until the end of the year when the two lines almost meet . This movement looks quite dramatic, but let's create one more chart to calculate the success rate based on launch date and see if it really is. 
   
