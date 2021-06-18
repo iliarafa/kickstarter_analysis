@@ -53,7 +53,12 @@ Another limitation is the specifics on canceled campaigns. Because we do  not kn
 Other possible graphs to include would be the correlation between goal amounts and average donation, the sum of projects by goal amount which we have already created, 
 
 
+
 ## **Outcomes based on Duration**
 I think that the duration of a campaign also plays a big role in its success and so I created a sheet examining the relation between campaign duration and success. 
+
+![](images/DurationvGoal.png)
+
+![](images/Success_Duration.png) 
 
 We also need a table breaking down campaign duration by amount
