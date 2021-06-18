@@ -19,33 +19,34 @@ The greatest challenge was the imbalance of campaigns throughout the goal amount
 
 # **Results**
 
-![](images/Outcomes_v_LaunchDate.png)
-
 ## **Outcomes based on Launch Date**
 
-  As we see in the graph there is parallel motion of both lines until they break apart in May to align again in August and to the end of the year. The margin increase between successful and failed lines combined with the increase in total campaigns translates to an increase in the success rate in late spring which holds for most of the summer. This indicates **late spring and the first two thirds of the summer as the optimal period to start a campaign**. As we move to the end of the summer success rates gradually fall and the margin between successful campaigns and failed is again locked in the initial parallel motion.  
+![](images/Outcomes_v_LaunchDate.png)
 
-We can verify this trend by taking in mind that most theatre projects require four to six months of planning, production and rehearsals. It is thus expected that more campaigns will start in late spring and early summer as they probably aim to conclude early in the summer and premier in Fall. 
+  As we see in the graph there is parallel motion of both lines and this indicates a steady success rate. The lines then break apart in March when we observe an increase in successful plays compared to failed plays which intensifies throughout April and reaches its peak in May. After that point successful plays slowly decrease while failed plays remain steady until the end of the year when the two lines almost meet . This movement looks quite dramatic, but let's create one more chart to calculate the success rate based on launch date and see if it really is. 
+  
+  ![](images/Success_Launch.png)
+  
+  There is a mostly gentle movement in this graph for the first nine months of the year before it hits turbulance in October. The average success rate for the first three quarters of the year is 64% while for the last quarter it is 57% .Highest percentage of success is observed in May and June at 67% and 68% respectively and the lowest in December at 51%. This may be attributed to **seasonal bias** as people tend to be more optimistic, extrovert and generous in the spring but more preoccupied with matters of their own at the end of the year when they also tend to spend more money in gifts and outings. There is no indication in the current data set of a more tangible cause for the fluctuation of success rate. 
 
-![](images/Success_Launch.png)
-
-It is important to mention that although the number of campaigns created rises naturally in May due to the aforementioned circumstances, the success rate also jumps by 5% which is the second biggest month to month increase. The biggest increase is observed from October to November where there is a 7% increase followed by a steep drop of 13% in December. This may represent a second wave of productions that aim to premier in the spring as well as **seasonal bias** for each outcome. People tend to be more optimistic, extrovert and generous in the spring but more preoccupied with matters of their own at the end of the year when they also tend to spend more money in gifts and outings. 
-
-In the second graph we examine success rate based on launch date throughout the year. It is evident that **the first half of the year is more favorable for crowdfunding**. By calculating the median for each half of the year we notice a 2% drop from first to second half. 
-
-![](images/Outcomes_vs_Goals.png) 
-
-## **Outcomes based on Goals**
+ ## **Outcomes based on Goals**
+ 
+ ![](images/Outcomes_vs_Goals.png)
 
 Observing the Outcomes based on Goals graph can be a real journey. As one would expect, we see a high concentration of successful campaigns in the low goal ranges of up to $10K. Then what follows is a natural and steady decline as the goal amounts rise. When we move past $30K this changes and we see the two lines trading places for a brief moment for amounts from $35K to $45K, before the successful line drops again in a real dramatic fashion. 
 
+As displayed in the graph below this anomaly is caused by a huge concentration of campaigns in the lower goal amounts. This is to be expected as projects with more ambitious goal amounts, in excess of $30K, would probably turn to other types of fundraising. 
+
 ![](images/Concentration_v_Goal.png)
 
-As displayed in the graph above this anomaly is caused by a huge concentration of campaigns in the lower goal amounts. This is to be expected as projects with more ambitious goal amounts in excess of $30K would probably turn to other types of fundraising. 
+For higher chances of success There should be a maximum goal of 
+
+ 
+
+## **Further Research Outcomes based on Duration**
 
 ![](images/DurationvGoal.png)
 
-## **Outcomes based on Duration**
 A welcoming addition to the already drawn conclusions could be provided by entering **duration** as a variable. Creating a new column on the spreadsheet, I subtracted *End Date Conversion* from *Launch Date Conversion* to count the days each campaign lasted. From this data I created a new table that includes goal amounts and duration to completion data. From this table we draw two more charts to display the relationship between Goal Amount and Duration as well as the Success Rate for each duration range. 
 
 From these we conclude it takes most succssful campaigns 30 days to reach their goal. Extending the campaign to 45 or 60 days will not bring in higher amounts. To support this we have to examine what was the duration for the high goal campaigns
