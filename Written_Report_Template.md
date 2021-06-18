@@ -1,4 +1,4 @@
-# kickstarter-analysis
+# kickstarter_ANALYSIS
 
 
 ## Purpose
@@ -15,13 +15,13 @@ To analyze outcomes based on goals I created a new table and populated its cells
 This chart indicated an anomaly and to confirm it I created a column graph to highlight the huge concentration of campaigns in the lowest goal amounts. 
 
 ### **Challenges and Difficulties Encountered**
-The biggest challenge for me was the concentration of projects on one end of the goal spectrum. 
+The greatest challenge was the imbalance of campaigns in the throughout the goal amount field. I had to consider treating all data for amounts greater than 30K as outliers.  
 
 # **Results**
 
-## **Outcomes based on Launch Date**
-
 ![](images/Outcomes_v_LaunchDate.png)
+
+## **Outcomes based on Launch Date**
 
   As we see in the graph there is parallel motion of both lines until they break apart in May to align again in August and to the end of the year. The margin increase between successful and failed lines combined with the increase in total campaigns translates to an increase in the success rate in late spring which holds for most of the summer. This indicates late spring and the first two thirds of the summer as the optimal period to start a campaign. As we move to the end of the summer success rates gradually fall and the margin between successful campaigns and failed is again locked in the initial parallel motion.  
 
@@ -37,7 +37,11 @@ In the second graph we examine success rate based on launch date throughout the 
 
 ![](images/Outcomes_vs_Goals.png) 
 
-Observing the Outcomes based on Goals graph can be a real journey. As one would expect, we see a high concentration of successful campaigns in the low goal ranges of up to $10K. Then what follows is a natural and steady decline as the goal amounts rise. When we move past $30K this changes and we see the two lines trading places for a brief moment for amounts from $35K to $45K, before the successful line drops again in a real dramatic fashion. This anomaly is caused by a huge concentration of campaigns in the lower goal amounts and an, at best, scarce concentration of campaigns in the higher amounts. This is quite reasonable as projects with more ambitious goal amounts in excess of $30K would probably turn to other types of fundraising. 
+Observing the Outcomes based on Goals graph can be a real journey. As one would expect, we see a high concentration of successful campaigns in the low goal ranges of up to $10K. Then what follows is a natural and steady decline as the goal amounts rise. When we move past $30K this changes and we see the two lines trading places for a brief moment for amounts from $35K to $45K, before the successful line drops again in a real dramatic fashion. 
+
+![](images/Concentration_v_Goal.png)
+
+As displayed by the graph above this anomaly is caused by a huge concentration of campaigns in the lower goal amounts and an, at best, scarce concentration of campaigns in the higher amounts. This is quite reasonable as projects with more ambitious goal amounts in excess of $30K would probably turn to other types of fundraising. 
 
 ## **Limitations**
 This dataset needs further branching under the play subcategory. There are different factors within a theatre production that will affect the success of its crowdfunding campaign such as the specific genre and theme, indoor or outdoor production, and the one absolutely intangible variable; the vision each production has for the message it is carrying. This specific variable can be deciding and can make all the rest seem superficial. 
@@ -45,6 +49,9 @@ This dataset needs further branching under the play subcategory. There are diffe
 Another limitation is the specifics on canceled campaigns. Because we do  not know the reason for the cancelations, we cannot include them when calculating averages. We do not know if a specific campaign was canceled because those running it realized they will never reach their goal or because of some random circumstance that forced them to this decision. If, for example, a campaign is canceled before its end date because it wasn't reaching its goal, then it should normally be counted as a failed campaign. 
 
 ### What are some other possible tables and/or graphs that we could create?
+
+Other possible graphs to include would be the correlation between goal amounts and average donation, the sum of projects by goal amount which we have already created, 
+
 
 ## **Outcomes based on Duration**
 I think that the duration of a campaign also plays a big role in its success and so I created a sheet examining the relation between campaign duration and success. 
