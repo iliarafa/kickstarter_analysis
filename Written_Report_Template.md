@@ -30,8 +30,7 @@ We can verify this trend by taking in mind that most theatre projects require fo
 
 It is important to mention that although the number of campaigns created rises naturally in May due to the aforementioned circumstances, the success rate jumps by 5% which is the second biggest month to month increase. The biggest increase is observed from October to November where there is a 7% increase followed by a steep drop of 13% in December. This may represent a second wave of productions that aim to premier in the spring. 
 
-
-
+![](resources/Success_Launch.png)
 
 In the second graph we examine success rate based on launch date throughout the year. It is evident that the first six months of the year are more favorable for crowdfunding. By calculating the median for each half of the year we notice a 2% drop from first to second half. 
 
