@@ -22,7 +22,7 @@ The biggest challenge for me was the concentration of projects on one end of the
 ## **Outcomes based on Launch Date**
 
 
- ![](resources/Theater_Outcomes_vs_Launch.png)
+
  
  As we see in the graph there is parallel motion of both lines until they break apart in May to align again in August and to the end of the year. The margin increase between successful and failed lines combined with the increase in total campaigns translates to an increase in the success rate in late spring which holds for most of the summer. This indicates late spring and the first two thirds of the summer as the optimal period to start a campaign. As we move to the end of the summer success rates gradually fall and the margin between successful campaigns and failed is again locked in the initial parallel motion.  
 
@@ -30,7 +30,7 @@ We can verify this trend by taking in mind that most theatre projects require fo
 
 It is important to mention that although the number of campaigns created rises naturally in May due to the aforementioned circumstances, the success rate jumps by 5% which is the second biggest month to month increase. The biggest increase is observed from October to November where there is a 7% increase followed by a steep drop of 13% in December. This may represent a second wave of productions that aim to premier in the spring. 
 
-![](resources/Success_Launch.png)
+![](images/Success_Launch.png)
 
 In the second graph we examine success rate based on launch date throughout the year. It is evident that the first six months of the year are more favorable for crowdfunding. By calculating the median for each half of the year we notice a 2% drop from first to second half. 
 
