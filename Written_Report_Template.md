@@ -51,7 +51,7 @@ This dataset needs **further branching under the subcategory "play"**. There are
  
  ## **Recommendations**
  
-One should expect that a crowdfunding campaign for a theatre play that starts in late March, with a modest goal amount at around $5K would have the best chances to succeed. However, due to the specifics of the industry, no strategic choice can really guarantee any results if the core of the production - the vision - is not adequately developed. 
+One should expect that a crowdfunding campaign for a theatre play that starts in late March, with a modest goal amount of up to $5K would have the best chances to succeed. However, due to the specifics of the industry, no strategic choice can really guarantee any results if the core of the production - the vision - is not adequately developed. 
 
 
 ## **Further Research / Outcomes based on Duration**
