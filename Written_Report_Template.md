@@ -43,9 +43,10 @@ This dataset needs **further branching under the subcategory "play"**. There are
 
 ## **Outcomes based on Launch Date**
 - Launch Date will not greatly affect the outcome of the campaign. Success rates show an insignicant variation. 
-- 
+- There is a huge concentration of campaigns in May and although the success rate also jumps, the danger of your campaign getting lost between the many is real. 
  
  ## **Outcomes based on Goals**
+ -There is a high propability of success for any campaign that sets a goal between $1K-$5K
  
  ![](png/Outcomes_vs_Goals.png)
 
@@ -65,4 +66,3 @@ From these we conclude it takes most succssful campaigns 30 days to reach their 
 ## **Limitations**
 This dataset needs **further branching under the play subcategory**. There are different factors within a theatre production that will affect the success of its crowdfunding campaign such as the specific genre and theme, indoor or outdoor production, and the one absolutely intangible variable; the vision each production has for the message it is carrying. This specific variable can be deciding and can make all the rest seem superficial. 
 
-Another limitation is **the specifics on canceled campaigns**. Because we do  not know the reason for the cancelations, we cannot include them when calculating averages. We do not know if a specific campaign was canceled because those running it realized they will never reach their goal or because of some random circumstance that forced them to this decision. If, for example, a campaign is canceled before its end date because it wasn't reaching its goal, then it should normally be counted as a failed campaign. 
