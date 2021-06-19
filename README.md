@@ -49,7 +49,7 @@ A useful addition to the already drawn conclusions could be provided by entering
 
 ![](png/goal_time.png)
 
-From these we conclude it takes most succssful campaigns 30 days to reach their goal. Extending the campaign to 45 or 60 days will not bring in higher amounts. To support this we have to examine what was the duration for the high goal campaigns
+This chart shows that there is no positive or negative correlation between goal amount and duration. A smaller goal amount does not guarantee a shorter campaign duration and vice versa. Month long campaigns show a success rate of 78%. 
 
 ![](png/suc_time.png)
 
