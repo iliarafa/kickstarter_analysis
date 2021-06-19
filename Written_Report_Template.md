@@ -46,7 +46,7 @@ This dataset needs **further branching under the subcategory "play"**. There are
 - There is a huge concentration of campaigns in May and although the success rate also jumps, the danger of your campaign getting lost between the many is real. 
  
  ## **Outcomes based on Goals**
- -There is a high propability of success for any campaign that sets a goal between $1K-$5K
+ -There is a high propability of success for any campaign that sets a goal between $1K-$5K.
  
  ![](png/Outcomes_vs_Goals.png)
 
