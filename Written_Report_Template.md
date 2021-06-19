@@ -35,7 +35,7 @@ It is safe to disregard the visual results for campaigns with a goal amount high
 ### **Challenges and Difficulties Encountered**
 One of the challenges was trying to understand why the first table on outcomes based on launch date is filtered in the parent category Theatre and not the subcategory "plays". Although the graph does not change significantly, we are including types of campaigns that could be irrelevant to our campaign .The second challenge was trying to detach myself from the things I think I know as a person who has worked in theatre for years. Every conclusion felt arbitrary as I knew the dataset given is really insufficient as the variables that we are testing are not in reality defining for a campaign like this. 
 
-## **Limitations**
+### **Limitations**
 This dataset needs **further branching under the subcategory "play"**. There are different factors within a theatre production that will affect the success of its crowdfunding campaign such as the specific genre and theme, indoor or outdoor production, and the one absolutely intangible variable; the vision each production has for the message it is carrying. This specific variable can be deciding and can make all the rest seem superficial. 
  
 
