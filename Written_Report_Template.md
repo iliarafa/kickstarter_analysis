@@ -30,7 +30,7 @@ Observing the Outcomes based on Goals graph can be a real journey. As one would 
 
 As displayed in the graph above this anomaly is caused by a disproportionately high concentration of campaigns in the lower goal amounts compared to the scarcity of campaigns with higher goals . This is to be expected as projects with more ambitious goal amounts, in excess of $20K, would probably turn to other types of fundraising. In terms of visualization this imbalance prints as a misleading variation. 
 
-It is safe to disregard the visual results for campaigns with a goal amount higher than $30K and to conclude that campaigns that have goals less than $10K are more likely to succeed. 
+It is safe to disregard the visual results for campaigns with a goal amount higher than $20K and to conclude that campaigns that have goals less than $10K are more likely to succeed. 
 
 ### **Challenges and Difficulties Encountered**
 One of the challenges was trying to understand why the first table on outcomes based on launch date is filtered in the parent category Theatre and not the subcategory "plays". Although the graph does not change significantly, we are including types of campaigns that could be irrelevant to our campaign .The second challenge was trying to detach myself from the things I think I know as a person who has worked in theatre for years. Every conclusion felt arbitrary as I knew the dataset given is really insufficient as the variables that we are testing are not in reality defining for a campaign like this. 
@@ -42,28 +42,26 @@ This dataset needs **further branching under the subcategory "play"**. There are
 # **Results**
 
 ## **Outcomes based on Launch Date**
-- Launch Date will not greatly affect the outcome of the campaign. Success rates show an insignicant variation. If one had to choose a date based on even the slightest increase in success rates, then May and June are the most attractive candidates. 
-- There is a huge concentration of campaigns in May and although the success rate also jumps, the danger of your campaign getting lost between the many is real. 
+- **Launch Date will not greatly affect the outcome of the campaign**. Success rates based on Launch Date show an insignicant variation. If one had to choose a date based on even the slightest increase in success rates, then May and June are the most attractive candidates. 
+- **Success of a campaign seems to be somehow subject to seasonal bias**. Crowdfunding is based on generosity so it is directly related to people's psychology. Spring campaigns are clearly more successful.
  
  ## **Outcomes based on Goals**
- -As opposed to Launch Date, the Goal of a campaign can be defining. There is a high propability of success for any campaign that sets a goal between $1K-$5K. Chances decrease  exponentially as goal amounts rise. 
- ![](png/Outcomes_vs_Goals.png)
+ - As opposed to Launch Date, the Goal of a campaign can be defining. There is a high propability of success for any campaign that sets a goal between $1K-$10K. Chances decrease  exponentially as goal amounts rise over the $10K mark. 
+ 
  
  ## **Recommendations**
  
 One should expect that a crowdfunding campaign for a theatre play that starts in late March, with a modest goal amount at around $5K would have the best chances to succeed. However, due to the specifics of the industry, no strategic choice can really guarantee any results if the core of the production - the vision - is not adequately developed. 
- 
-
-
 
 
 ## **Further Research / Outcomes based on Duration**
 
-![](png/goal_time.png)
-
 A useful addition to the already drawn conclusions could be provided by entering **duration** as a variable. Creating a new column on the spreadsheet, I subtracted *End Date Conversion* from *Launch Date Conversion* to count the days each campaign lasted. From this data I created a new table that includes goal amounts and duration to completion data. From this table we draw two more charts to display the relationship between Goal Amount and Duration as well as the Success Rate for each duration range. 
 
+![](png/goal_time.png)
+
 From these we conclude it takes most succssful campaigns 30 days to reach their goal. Extending the campaign to 45 or 60 days will not bring in higher amounts. To support this we have to examine what was the duration for the high goal campaigns
+
 ![](png/suc_time.png)
 
 
