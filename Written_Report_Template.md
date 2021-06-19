@@ -33,21 +33,17 @@ As displayed in the graph above this anomaly is caused by a high concentration o
 It is safe to conclude that campaigns that have goals less than $10K are more likely to succeed. 
 
 ### **Challenges and Difficulties Encountered**
-My greatest challenge was the arbitrary nature of the conclusions I could draw based on this dataset. The dataset itself **is** its limitation.  
+One of the challenges was trying to understand why the first table on outcomes based on launch date is filtered in the parent category Theatre and not the subcategory "plays". Although the graph does not change significantly, we are including types of campaigns that could be irrelevant to our campaign .The second challenge was trying to dettach myself from the things I think I know as a person who has worked in theatre for years. Every conclusion felt arbitrary as I knew the dataset given is really insufficient as the variables that we are testing are not in reality defining for a campaign like this. 
 
 ## **Limitations**
-This dataset needs **further branching under the play subcategory**. There are different factors within a theatre production that will affect the success of its crowdfunding campaign such as the specific genre and theme, indoor or outdoor production, and the one absolutely intangible variable; the vision each production has for the message it is carrying. This specific variable can be deciding and can make all the rest seem superficial. 
-
-Another limitation is **the specifics on canceled campaigns**. Because we do  not know the reason for the cancelations, we cannot include them when calculating averages. We do not know if a specific campaign was canceled because those running it realized they will never reach their goal or because of some random circumstance that forced them to this decision. If, for example, a campaign is canceled before its end date because it wasn't reaching its goal, then it should normally be counted as a failed campaign. 
-
-
+This dataset needs **further branching under the subcategory "play"**. There are different factors within a theatre production that will affect the success of its crowdfunding campaign such as the specific genre and theme, indoor or outdoor production, and the one absolutely intangible variable; the vision each production has for the message it is carrying. This specific variable can be deciding and can make all the rest seem superficial. 
  
 
 # **Results**
 
 ## **Outcomes based on Launch Date**
-- Launch Date will not greatly affect the outcome of the campaign. The success rate shows an insignicant variation. 
- 
+- Launch Date will not greatly affect the outcome of the campaign. Success rates show an insignicant variation. 
+- 
  
  ## **Outcomes based on Goals**
  
