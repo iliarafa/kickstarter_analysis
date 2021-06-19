@@ -1,7 +1,7 @@
 # kickstarter_ANALYSIS
 
 
-## Purpose
+### Purpose
 The purpose of this project is to provide insight on how the launch date and the goal amount of a crowdfunding campaign for theater affect its outcome.  
 
 ## **Analysis and Challenges**
